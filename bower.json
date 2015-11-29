@@ -1,0 +1,21 @@
+{
+  "name": "extremeviolence",
+  "homepage": "https://github.com/MannuPannu/extremeviolence",
+  "authors": [
+    "Magnus Stenqvist <magnus.p.stenqvist@gmail.com>"
+  ],
+  "description": "A 2d shooter game",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
