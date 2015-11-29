@@ -1,3 +1,4 @@
 # extremeviolence
 
-Im aiming of making a multiplayer remake of the classic AMIGA game written in javascript
+With the aim of remaking the classic AMIGA game Extreme Violence I set forth on an adventure through javascript land!
+
